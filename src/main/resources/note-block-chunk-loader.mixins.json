@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.gcServer.chunkLoader.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "NoteBlockMixin"
+  ],
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
